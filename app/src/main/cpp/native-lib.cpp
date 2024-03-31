@@ -102,7 +102,6 @@ Java_ru_iu3_fclient_MainActivity_decrypt(JNIEnv *env, jclass, jbyteArray key, jb
     for (int i = 0; i < cn; i++)
         mbedtls_des3_crypt_ecb(&ctx, buf + i*8, buf +i*8);
 
-    //PKCS#5. упрощено. по соображениям безопасности надо проверить каждый байт паддинга
     int sz = dsz - 8 + buf[dsz-1];
 
     jbyteArray dout = env->NewByteArray(sz);
