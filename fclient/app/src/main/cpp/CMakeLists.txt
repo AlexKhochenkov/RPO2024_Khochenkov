@@ -34,11 +34,11 @@ set_target_properties(mbedcrypto PROPERTIES IMPORTED_LOCATION
 
 add_library(spdlog STATIC IMPORTED)
 set_target_properties(spdlog PROPERTIES IMPORTED_LOCATION
-        /home/starl/AndroidStudioProjects/libs/spdlog/build/${ANDROID_ABI}/libspdlog.a)
+        /home/starl/AndroidStudioProjects/fclient/libs/spdlog/build/${ANDROID_ABI}/libspdlog.a)
 
 target_include_directories(fclient PUBLIC
-        /home/starl/AndroidStudioProjects/libs/spdlog/spdlog/include
-        /home/starl/AndroidStudioProjects/libs/mbedtls/mbedtls/include)
+        /home/starl/AndroidStudioProjects/fclient/libs/spdlog/spdlog/include
+        /home/starl/AndroidStudioProjects/fclient/libs/mbedtls/mbedtls/include)
 
 
 
