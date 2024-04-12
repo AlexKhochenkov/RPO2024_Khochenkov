@@ -1,19 +1,15 @@
 
 package ru.iu3.backend.models;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @Entity
-@Table(name = "countries")
+@Table(name = "artists")
 @Access(AccessType.FIELD)
-public class Country {
+public class Artist {
 
-    public Country() { }
-    public Country(Long id) {
+    public Artist() { }
+    public Artist(Long id) {
         this.id = id;
     }
 
@@ -22,13 +18,16 @@ public class Country {
     @Column(name = "id", updatable = false, nullable = false)
     public long id;
 
-
     @Column(name = "name", nullable = false, unique = true)
     public String name;
 
+    @Column(name = "century", nullable = false)
+    public String century;
 
-    @JsonIgnore
-    @OneToMany(mappedBy = "country")
-    public List<Artist> artists = new ArrayList<>();
+    @ManyToOne()
+    @JoinColumn(name = "countryid")
+    public Country country;
 }
+
+
 

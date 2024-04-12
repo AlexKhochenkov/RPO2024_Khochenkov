@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a7479d-5202-4db1-8fd8-119e48a8ac6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/iu3/backend/BackendApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/iu3/backend/controllers/SampleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fclient/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fclient/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fclient/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fclient/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +91,8 @@
       <workItem from="1712335602308" duration="167000" />
       <workItem from="1712491438068" duration="258000" />
       <workItem from="1712506625294" duration="1198000" />
-      <workItem from="1712507845848" duration="1928000" />
+      <workItem from="1712507845848" duration="2126000" />
+      <workItem from="1712914626188" duration="5389000" />
     </task>
     <servers />
   </component>
