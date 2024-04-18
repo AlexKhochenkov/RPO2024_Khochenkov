@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="c8a7479d-5202-4db1-8fd8-119e48a8ac6d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Artist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Museum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Museum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Painting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.BackendApplication.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/starl/AndroidStudioProjects/fclient/backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BackendApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/starl/AndroidStudioProjects/fclient/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="backend" />
@@ -92,7 +99,8 @@
       <workItem from="1712491438068" duration="258000" />
       <workItem from="1712506625294" duration="1198000" />
       <workItem from="1712507845848" duration="2126000" />
-      <workItem from="1712914626188" duration="5389000" />
+      <workItem from="1712914626188" duration="6245000" />
+      <workItem from="1713472648466" duration="7032000" />
     </task>
     <servers />
   </component>
