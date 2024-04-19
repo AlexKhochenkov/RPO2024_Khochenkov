@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c8a7479d-5202-4db1-8fd8-119e48a8ac6d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Museum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Museum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/Painting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +60,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "ts.external.directory.path": "/home/starl/Downloads/idea-IU-233.15026.9/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,6 +94,7 @@
       <workItem from="1712507845848" duration="2126000" />
       <workItem from="1712914626188" duration="6245000" />
       <workItem from="1713472648466" duration="7032000" />
+      <workItem from="1713518737385" duration="2595000" />
     </task>
     <servers />
   </component>
