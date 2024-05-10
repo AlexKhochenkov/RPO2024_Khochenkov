@@ -8,10 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Login.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/NavigationBarClass.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/NavigationBarClass.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/BackendService.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/BackendService.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fclient/app/src/main/java/ru/iu3/fclient/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fclient/app/src/main/java/ru/iu3/fclient/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JSX File" />
       </list>
     </option>
   </component>
@@ -102,6 +105,10 @@
       <workItem from="1713472648466" duration="7032000" />
       <workItem from="1713518737385" duration="2595000" />
       <workItem from="1713522836967" duration="2790000" />
+      <workItem from="1713527608054" duration="1005000" />
+      <workItem from="1715350915891" duration="426000" />
+      <workItem from="1715351368479" duration="2000" />
+      <workItem from="1715353013097" duration="2049000" />
     </task>
     <servers />
   </component>

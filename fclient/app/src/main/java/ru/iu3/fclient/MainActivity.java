@@ -121,15 +121,15 @@ public class MainActivity extends AppCompatActivity implements TransactionEvents
 
     public void onButtonClick(View v)
     {
-//        new Thread(()-> {
-//            try {
-//                byte[] trd = stringToHex("9F0206000000000100");
-//                transaction(trd);
-//            } catch (Exception ex) {
-//                Log.e("fapptag", "Click fails", ex);
-//            }
-//        }).start();
-        testHttpClient();
+        new Thread(()-> {
+            try {
+                byte[] trd = stringToHex("9F0206000000000100");
+                transaction(trd);
+            } catch (Exception ex) {
+                Log.e("fapptag", "Click fails", ex);
+            }
+        }).start();
+//        testHttpClient();
     }
 
 
