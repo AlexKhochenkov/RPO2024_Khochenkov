@@ -20,7 +20,7 @@ import java.util.Optional;
 public class AuthenticationProvider extends AbstractUserDetailsAuthenticationProvider {
 
 
-    @Value("${private.session-timeout}")
+    @Value("${private.session-timeout}000000")
     private int sessionTimeout;
     @Autowired
     UserRepository userRepository;

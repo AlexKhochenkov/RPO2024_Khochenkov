@@ -16,11 +16,9 @@ class BackendService {
         return axios.get(`${AUTH_URL}/logout`, { headers : {Authorization : Utils.getToken()}})
     }
 
-
-    /* Countries */
-
+    // Таблица "Страны"
     retrieveAllCountries(page, limit) {
-        return axios.get(`${API_URL}/countries`, { headers : {Authorization : Utils.getToken()}});
+        return axios.get(`${API_URL}/countries?page=${page}&limit=${limit}`, { headers : {Authorization : Utils.getToken()}});
     }
 
     retrieveCountry(id) {
@@ -38,8 +36,6 @@ class BackendService {
     deleteCountries(countries) {
         return axios.post(`${API_URL}/deletecountries`, countries, { headers : {Authorization : Utils.getToken()}});
     }
-
-
 
     // Таблица "Художники"
     retrieveAllArtists(page, limit) {

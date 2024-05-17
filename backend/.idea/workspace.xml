@@ -6,10 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c8a7479d-5202-4db1-8fd8-119e48a8ac6d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/CountryListComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/CountryListComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/SideBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/SideBar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/services/BackendService.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/BackendService.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/auth/AuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/auth/AuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/ArtistController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/MuseumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/MuseumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/iu3/backend/models/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +114,7 @@
       <workItem from="1715351368479" duration="2000" />
       <workItem from="1715353013097" duration="2406000" />
       <workItem from="1715764007758" duration="1029000" />
-      <workItem from="1715936964408" duration="3375000" />
+      <workItem from="1715936964408" duration="9469000" />
     </task>
     <servers />
   </component>
